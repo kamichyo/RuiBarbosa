@@ -12,7 +12,7 @@ body {
 
 header {
     background-color: #333;
-    color: #d13f3f;
+    color: #ffffff;
     padding: 1em;
     text-align: center;
 }
@@ -50,8 +50,8 @@ section {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #c93636;
+    color: #ffffff;
     text-align: center;
     padding: 1em 0;
 }
