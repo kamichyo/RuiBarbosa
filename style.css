@@ -6,7 +6,7 @@ body, h1, h2, p, ul, li {
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #db1d1d;
     color: #333;
 }
 
@@ -50,7 +50,7 @@ section {
 }
 
 footer {
-    background-color: #c93636;
+    background-color: #0e0000;
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
